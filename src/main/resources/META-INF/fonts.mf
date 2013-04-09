@@ -1,0 +1,26 @@
+# Copyright (c) 2013, The Cat Hive Developers
+# 
+#    Licensed under the Apache License, Version 2.0 (the "License");
+#    you may not use this file except in compliance with the License.
+# 
+#    Unless required by applicable law or agreed to in writing, software
+#    distributed under the License is distributed on an "AS IS" BASIS,
+#    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+#    See the License for the specific language governing permissions and
+#    limitations under the License.
+
+Roboto\ Black = /com/cathive/fonts/roboto/Roboto-Black.ttf
+Roboto\ Black\ Italic = /com/cathive/fonts/roboto/Roboto-BlackItalic.ttf
+Roboto\ Bold = /com/cathive/fonts/roboto/Roboto-Bold.ttf
+Roboto\ Bold\ Condensed = /com/cathive/fonts/roboto/Roboto-BoldCondensed.ttf
+Roboto\ Bold\ Condensed\ Italic = /com/cathive/fonts/roboto/Roboto-BoldCondensedItalic.ttf
+Roboto\ Bold\ Italic = /com/cathive/fonts/roboto/Roboto-BoldItalic.ttf
+Roboto\ Condensed = /com/cathive/fonts/roboto/Roboto-Condensed.ttf
+Roboto\ Condensed\ Italic = /com/cathive/fonts/roboto/Roboto-CondensedItalic.ttf
+Roboto\ Italic = /com/cathive/fonts/roboto/Roboto-Italic.ttf
+Roboto\ Light\ Italic = /com/cathive/fonts/roboto/Roboto-LightItalic.ttf
+Roboto\ Medium = /com/cathive/fonts/roboto/Roboto-Medium.ttf
+Roboto\ Medium\ Italic = /com/cathive/fonts/roboto/Roboto-MediumItalic.ttf
+Roboto\ Regular = /com/cathive/fonts/roboto/Roboto-Regular.ttf
+Roboto\ Thin = /com/cathive/fonts/roboto/Roboto-Thin.ttf
+Roboto\ Thin\ Italic = /com/cathive/fonts/roboto/Roboto-ThinItalic.ttf
