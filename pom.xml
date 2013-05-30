@@ -22,7 +22,7 @@
   <groupId>com.cathive.fonts</groupId>
   <artifactId>fonts-roboto</artifactId>
   <packaging>jar</packaging>
-  <version>2012023-1</version>
+  <version>2012023.0-SNAPSHOT</version>
   <name>Roboto Fonts</name>
   <description></description>
   <url>http://robotofont.com/</url>
@@ -34,11 +34,12 @@
     <version>1</version>
   </parent>
 
-  <properties/>
-
-  <prerequisites>
-    <maven>3.0.0</maven>
-  </prerequisites>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <maven.compiler.compilerVersion>1.5</maven.compiler.compilerVersion>
+    <maven.compiler.source>1.5</maven.compiler.source>
+    <maven.compiler.target>1.5</maven.compiler.target>
+  </properties>
 
   <licenses>
     <license>
@@ -46,7 +47,7 @@
       <url>http://www.apache.org/licenses/LICENSE-2.0.html</url>
       <distribution>repo</distribution>
       <comments>
-        The fonts itself - as well as this wrapper library - are distributed under the Apcche License, Version 2.0.
+        The fonts - as well as this wrapper library - are distributed under the Apcche License, Version 2.0.
         The original copyright of the fonts itself is held by the Android Open Source Project.
       </comments>
     </license>
@@ -54,7 +55,7 @@
 
   <issueManagement>
     <system>Github</system>
-    <url>https://github.com/cathive/fonts-roboto/issues</url>
+    <url>https://github.com/cathive/${project.artifactId}/issues</url>
   </issueManagement>
 
   <developers>
@@ -85,10 +86,9 @@
   </contributors>
 
   <scm>
-    <connection>scm:git:https://github.com/cathive/fonts-roboto.git</connection>
-    <developerConnection>scm:git:git@github.com:cathive/fonts-roboto.git</developerConnection>
-    <tag>master</tag>
-    <url>https://github.com/cathive/fonts-roboto/</url>
+    <connection>scm:git:https://github.com/cathive/${project.artifactId}.git</connection>
+    <developerConnection>scm:git:git@github.com:cathive/${project.artifactId}.git</developerConnection>
+    <url>https://github.com/cathive/${project.artifactId}/</url>
   </scm>
 
   <ciManagement/>
