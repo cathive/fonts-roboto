@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2011-2012, The Cat Hive Developers
+ * Copyright (c) 2013, The Cat Hive Developers
  * 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@
 package com.cathive.fonts.roboto;
 
 /**
- * A bunch of String contants that define the different font names
+ * A bunch of String constants that define the different font names
  * that can be used.
  * 
  * @author Benjamin P. Jung
