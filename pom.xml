@@ -22,7 +22,7 @@
     <groupId>com.cathive.fonts</groupId>
     <artifactId>fonts-roboto</artifactId>
     <packaging>bundle</packaging>
-    <version>2012023.1-SNAPSHOT</version>
+    <version>2012023.1</version>
     <name>Roboto Fonts</name>
     <description />
     <url>http://robotofont.com/</url>
@@ -84,7 +84,7 @@
         <connection>scm:git:https://github.com/cathive/${project.artifactId}.git</connection>
         <developerConnection>scm:git:git@github.com:cathive/${project.artifactId}.git</developerConnection>
         <url>https://github.com/cathive/${project.artifactId}/</url>
-      <tag>HEAD</tag>
+      <tag>2012023.1</tag>
   </scm>
 
     <ciManagement />
