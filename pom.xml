@@ -34,7 +34,11 @@
         <version>2</version>
     </parent>
 
-    <properties />
+    <properties>
+        <maven.compiler.compilerVersion>1.7</maven.compiler.compilerVersion>
+        <maven.compiler.source>1.7</maven.compiler.source>
+        <maven.compiler.target>1.7</maven.compiler.target>
+    </properties>
 
     <licenses>
         <license>
@@ -80,14 +84,17 @@
         </contributor>
     </contributors>
 
+    <ciManagement>
+        <system>Travis CI</system>
+        <url>https://travis-ci.org/cathive/fonts-roboto</url>
+    </ciManagement>
+
     <scm>
         <connection>scm:git:https://github.com/cathive/${project.artifactId}.git</connection>
         <developerConnection>scm:git:git@github.com:cathive/${project.artifactId}.git</developerConnection>
         <url>https://github.com/cathive/${project.artifactId}/</url>
-      <tag>HEAD</tag>
-  </scm>
-
-    <ciManagement />
+      <tag>master</tag>
+    </scm>
 
     <build>
         <plugins>
