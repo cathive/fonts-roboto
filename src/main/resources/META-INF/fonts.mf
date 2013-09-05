@@ -9,14 +9,11 @@
 #    See the License for the specific language governing permissions and
 #    limitations under the License.
 
+### Roboto
 Roboto\ Black = /com/cathive/fonts/roboto/Roboto-Black.ttf
 Roboto\ Black\ Italic = /com/cathive/fonts/roboto/Roboto-BlackItalic.ttf
 Roboto\ Bold = /com/cathive/fonts/roboto/Roboto-Bold.ttf
-Roboto\ Bold\ Condensed = /com/cathive/fonts/roboto/Roboto-BoldCondensed.ttf
-Roboto\ Bold\ Condensed\ Italic = /com/cathive/fonts/roboto/Roboto-BoldCondensedItalic.ttf
 Roboto\ Bold\ Italic = /com/cathive/fonts/roboto/Roboto-BoldItalic.ttf
-Roboto\ Condensed = /com/cathive/fonts/roboto/Roboto-Condensed.ttf
-Roboto\ Condensed\ Italic = /com/cathive/fonts/roboto/Roboto-CondensedItalic.ttf
 Roboto\ Italic = /com/cathive/fonts/roboto/Roboto-Italic.ttf
 Roboto\ Light\ Italic = /com/cathive/fonts/roboto/Roboto-LightItalic.ttf
 Roboto\ Medium = /com/cathive/fonts/roboto/Roboto-Medium.ttf
@@ -24,3 +21,11 @@ Roboto\ Medium\ Italic = /com/cathive/fonts/roboto/Roboto-MediumItalic.ttf
 Roboto\ Regular = /com/cathive/fonts/roboto/Roboto-Regular.ttf
 Roboto\ Thin = /com/cathive/fonts/roboto/Roboto-Thin.ttf
 Roboto\ Thin\ Italic = /com/cathive/fonts/roboto/Roboto-ThinItalic.ttf
+
+### Roboto Condensed
+Roboto\ Condensed\ Bold\ Italic = /com/cathive/fonts/roboto/RobotoCondensed-BoldItalic.ttf
+Roboto\ Condensed\ Bold = /com/cathive/fonts/roboto/RobotoCondensed-Bold.ttf
+Roboto\ Condensed\ Italic = /com/cathive/fonts/roboto/RobotoCondensed-Italic.ttf
+Roboto\ Condensed\ Light\ Italic = /com/cathive/fonts/roboto/RobotoCondensed-LightItalic.ttf
+Roboto\ Condensed\ Light = /com/cathive/fonts/roboto/RobotoCondensed-Light.ttf
+Roboto\ Condensed\ Regular = /com/cathive/fonts/roboto/RobotoCondensed-Regular.ttf

@@ -22,7 +22,7 @@
     <groupId>com.cathive.fonts</groupId>
     <artifactId>fonts-roboto</artifactId>
     <packaging>bundle</packaging>
-    <version>2012023.2-SNAPSHOT</version>
+    <version>1.100141.0-SNAPSHOT</version>
     <name>Roboto Fonts</name>
     <description />
     <url>http://robotofont.com/</url>
@@ -127,31 +127,7 @@
                                 </manifestEntries>
                             </manifestSection>
                             <manifestSection>
-                                <name>/com/cathive/fonts/roboto/Roboto-BoldCondensed.ttf</name>
-                                <manifestEntries>
-                                    <Content-Type>application/x-font-ttf</Content-Type>
-                                </manifestEntries>
-                            </manifestSection>
-                            <manifestSection>
-                                <name>/com/cathive/fonts/roboto/Roboto-BoldCondensedItalic.ttf</name>
-                                <manifestEntries>
-                                    <Content-Type>application/x-font-ttf</Content-Type>
-                                </manifestEntries>
-                            </manifestSection>
-                            <manifestSection>
                                 <name>/com/cathive/fonts/roboto/Roboto-BoldItalic.ttf</name>
-                                <manifestEntries>
-                                    <Content-Type>application/x-font-ttf</Content-Type>
-                                </manifestEntries>
-                            </manifestSection>
-                            <manifestSection>
-                                <name>/com/cathive/fonts/roboto/Roboto-Condensed.ttf</name>
-                                <manifestEntries>
-                                    <Content-Type>application/x-font-ttf</Content-Type>
-                                </manifestEntries>
-                            </manifestSection>
-                            <manifestSection>
-                                <name>/com/cathive/fonts/roboto/Roboto-CondensedItalic.ttf</name>
                                 <manifestEntries>
                                     <Content-Type>application/x-font-ttf</Content-Type>
                                 </manifestEntries>
@@ -194,6 +170,42 @@
                             </manifestSection>
                             <manifestSection>
                                 <name>/com/cathive/fonts/roboto/Roboto-ThinItalic.ttf</name>
+                                <manifestEntries>
+                                    <Content-Type>application/x-font-ttf</Content-Type>
+                                </manifestEntries>
+                            </manifestSection>
+                            <manifestSection>
+                                <name>/com/cathive/fonts/roboto/RobotoCondensed-Bold.ttf</name>
+                                <manifestEntries>
+                                    <Content-Type>application/x-font-ttf</Content-Type>
+                                </manifestEntries>
+                            </manifestSection>
+                            <manifestSection>
+                                <name>/com/cathive/fonts/roboto/RobotoCondensed-BoldItalic.ttf</name>
+                                <manifestEntries>
+                                    <Content-Type>application/x-font-ttf</Content-Type>
+                                </manifestEntries>
+                            </manifestSection>
+                            <manifestSection>
+                                <name>/com/cathive/fonts/roboto/RobotoCondensed-Italic.ttf</name>
+                                <manifestEntries>
+                                    <Content-Type>application/x-font-ttf</Content-Type>
+                                </manifestEntries>
+                            </manifestSection>
+                            <manifestSection>
+                                <name>/com/cathive/fonts/roboto/RobotoCondensed-Light.ttf</name>
+                                <manifestEntries>
+                                    <Content-Type>application/x-font-ttf</Content-Type>
+                                </manifestEntries>
+                            </manifestSection>
+                            <manifestSection>
+                                <name>/com/cathive/fonts/roboto/RobotoCondensed-LightItalic.ttf</name>
+                                <manifestEntries>
+                                    <Content-Type>application/x-font-ttf</Content-Type>
+                                </manifestEntries>
+                            </manifestSection>
+                            <manifestSection>
+                                <name>/com/cathive/fonts/roboto/RobotoCondensed-Regular.ttf</name>
                                 <manifestEntries>
                                     <Content-Type>application/x-font-ttf</Content-Type>
                                 </manifestEntries>

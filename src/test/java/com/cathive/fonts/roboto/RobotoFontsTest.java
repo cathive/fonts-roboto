@@ -39,14 +39,17 @@ public class RobotoFontsTest {
         "Roboto-Bold.ttf",
         "Roboto-LightItalic.ttf",
         "Roboto-Regular.ttf",
-        "Roboto-BoldCondensedItalic.ttf",
-        "Roboto-CondensedItalic.ttf",
         "Roboto-Light.ttf",
         "Roboto-ThinItalic.ttf",
         "Roboto-BoldCondensed.ttf",
-        "Roboto-Condensed.ttf",
         "Roboto-MediumItalic.ttf",
-        "Roboto-Thin.ttf"
+        "Roboto-Thin.ttf",
+	"RobotoCondensed-Bold.ttf",
+	"RobotoCondensed-BoldItalic.ttf",
+	"RobotoCondensed-Italic.ttf",
+	"RobotoCondensed-Light.ttf",
+	"RobotoCondensed-LightItalic.ttf",
+	"RobotoCondensed-Regular.ttf"
     };
 
     @Test
